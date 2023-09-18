@@ -1,0 +1,23 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "test123213",
+      "email": "test@tes.com",
+      "phone": "1234567890"
+    },
+    {
+      "name": "as asd",
+      "email": "hobapir387@ilusale.com",
+      "phone": "1231231231",
+      "status": true,
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@tes.com",
+      "phone": "0000000",
+      "id": 4
+    }
+  ]
+}
